@@ -13,7 +13,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Sparkplug Common Exception</name>
-            <url>https://maven.pkg.github.com/Sparkplug-Backend/common.git</url>
+            <url>https://maven.pkg.github.com/Sparkplug-Backend/common</url>
         </repository>
     </distributionManagement>
 
