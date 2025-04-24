@@ -9,6 +9,14 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Sparkplug Common Exception</name>
+            <url>https://maven.pkg.github.com/Sparkplug-Backend/common.git</url>
+        </repository>
+    </distributionManagement>
+
     <artifactId>common.exception</artifactId>
 
     <properties>
