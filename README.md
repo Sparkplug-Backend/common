@@ -2,3 +2,4 @@
 
 Contains:
 - Exception
+- Authentication
