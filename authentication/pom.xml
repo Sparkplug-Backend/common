@@ -8,7 +8,11 @@
         <version>3.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.sparkplug</groupId>
+    <groupId>com.sparkplug.common</groupId>
+    <artifactId>authentication</artifactId>
+    <version>0.0.3</version>
+    <name>authentication</name>
+    <description>Common sparkplug authentication</description>
 
     <distributionManagement>
         <repository>
@@ -18,10 +22,6 @@
         </repository>
     </distributionManagement>
 
-    <artifactId>common-authentication</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
-    <name>common-authentication</name>
-    <description>common-authentication</description>
     <url/>
     <licenses>
         <license/>

@@ -3,3 +3,4 @@
 Contains:
 - Exception
 - Authentication
+- Utilities
